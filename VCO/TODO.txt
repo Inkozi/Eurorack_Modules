@@ -1,0 +1,10 @@
+
+Source new Trimmers
+Figure out tuning protocol and document
+Fix cutoff of PWM Pot
+Fix Channel two on PCB (maybe solder a new one?)
+
+
+
+DONE
+Flip Trimmers
